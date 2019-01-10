@@ -1,8 +1,7 @@
 volvo
 bMW
 hyundai
-Maruth
-THAR
+
 XUV
 
 JAWAi
