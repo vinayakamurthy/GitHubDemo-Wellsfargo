@@ -6,6 +6,7 @@ suzuki
 bMW
 hyundai
 Maruth
-
+THAR
+XUV
 
 JAWAi
